@@ -1,3 +1,5 @@
+docs/source/index.rst
+
 Welcome to Lumache's documentation!
 ===================================
 
